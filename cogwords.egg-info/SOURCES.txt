@@ -1,0 +1,14 @@
+README.md
+setup.py
+cogwords/__init__.py
+cogwords/database.py
+cogwords/embedding.py
+cogwords/functions_a.py
+cogwords/functions_b.py
+cogwords/image.py
+cogwords/main.py
+cogwords/test.py
+cogwords.egg-info/PKG-INFO
+cogwords.egg-info/SOURCES.txt
+cogwords.egg-info/dependency_links.txt
+cogwords.egg-info/top_level.txt
